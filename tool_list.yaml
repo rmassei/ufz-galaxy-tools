@@ -3507,3 +3507,6 @@ tools:
 - name: fragpipe
   owner: galaxyp
   tool_panel_section_label: Proteomics 
+- name: zipping
+  owner: ufz
+  tool_panel_section_label: Collection Operations
